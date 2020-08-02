@@ -12,6 +12,8 @@ Other Python libraries which is required in this project are :-<br>
 <h2>Deployment</h2>
 In this project we have to give input in "read.txt" file.<br>
 for example:-
+<img src="images/1.png" alt="input">
 
 Then we have to run the project and we get our required output.<br>
 for example:-
+<img src="images/2.png" alt="output">
